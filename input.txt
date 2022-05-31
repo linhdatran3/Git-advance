@@ -4,3 +4,5 @@ this is from branch A
 this is from branch A 2
 
 this is from branch C
+
+this is from branch B
